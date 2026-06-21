@@ -1,1 +1,3 @@
 # portfolio
+As part of setting up my development environment, I installed Cursor IDE and explored its core features. To enhance AI-assisted development capabilities, I added the Claude Code and Codex extensions within Cursor.
+To manage version control and project collaboration, I connected my GitHub account and created a repository directly from Cursor. Since I was new to GitHub, I spent time learning the fundamentals of repositories, commits, version control, and remote synchronization. This process helped me gain practical experience with both GitHub and Cursor while establishing a structured development workflow.
